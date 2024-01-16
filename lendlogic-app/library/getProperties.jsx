@@ -1,4 +1,4 @@
-const url = "https://www.lendlogic.betterbymiles.co.uk";
+const url = "https://www.lendlogic.betterbymiles.co.uk/";
 
 export default async function getProperties() {
   try {
