@@ -1,4 +1,4 @@
-const url = "https://lendlogic-data.onrender.com/"
+const url = "https://www.lendlogic.betterbymiles.co.uk";
 
 export default async function getSteps() {
     try {const res = await fetch(`${url}steps`);
