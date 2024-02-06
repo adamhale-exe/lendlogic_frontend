@@ -65,6 +65,7 @@ We have also implemented features for the remortgage side of the app, where the 
 5. Explore, enjoy and give us feedback on lendlogicmedia@gmail.com 
 
 ## Project Structure
+```
 lendlogic-app
 └─ .
    ├─ app
@@ -155,3 +156,4 @@ lendlogic-app
    ├─ public
    ├─ README.md
    └─ tailwind.config.js
+```
