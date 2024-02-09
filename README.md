@@ -1,6 +1,6 @@
-# LendLogic-app
-[Link](https://lendlogic-frontend.vercel.app/) to the app deployed on Vercel.
-[Video](https://youtu.be/WsQBYR9njp8) presentation of our app.
+# LendLogic
+[Link](https://lendlogic-frontend.vercel.app/) to the app deployed on Vercel.  
+[Video](https://youtu.be/WsQBYR9njp8) presentation of our app.  
 [Backend here](https://github.com/adamhale-exe/lendlogic_backend)
 
 ## The Brief
