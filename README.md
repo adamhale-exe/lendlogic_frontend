@@ -1,10 +1,10 @@
-# LandLogic-app
-[Link](https://land-logic-app-frontend.vercel.app/) to the app deployed on Vercel.
+# LendLogic-app
+[Link](https://lendlogic-frontend.vercel.app/) to the app deployed on Vercel.
 [Video](https://youtu.be/WsQBYR9njp8) presentation of our app.
-[Backend here](https://github.com/MartiZu/LendLogic-backend)
+[Backend here](https://github.com/adamhale-exe/lendlogic_backend)
 
 ## The Brief
-Having been selected to work with real life stakeholders gave us a unique opportunity. We were able to align our project to their needs and expectations, avoiding ambiguity and addressing any misunderstandings. This also allowed us to create a project that is relevant to the market, as well as the organization’s goals. The company wanted us to explore options and opportunities to serve that substantial portion of users that engages with the app for mortgage-related reasons, but that is currently underserved in the market because products do not offer them user-specific features. With the complexity and significance of mortgage decisions, there is a substantial opportunity to enhance the customer experience by offering features and services specifically tailored to these needs. 
+Having been selected to work with real-life stakeholders gave us a unique opportunity. We were able to align our project to their needs and expectations, avoiding ambiguity and addressing any misunderstandings. This also allowed us to create a project that is relevant to the market, as well as the organization’s goals. The company wanted us to explore options and opportunities to serve that substantial portion of users that engage with the app for mortgage-related reasons, but that is currently underserved in the market because products do not offer them user-specific features. With the complexity and significance of mortgage decisions, there is a substantial opportunity to enhance the customer experience by offering features and services specifically tailored to these needs. 
 
 ## Overview
 Welcome to **LendLogic**, your all-in-one solution for personalized financial insights and decision-making related to mortgages. This application goes beyond the conventional one-size-fits-all approach, recognizing that users dealing with mortgage-related matters have unique needs that require specialized features and services. Working with 2 very technical people fostered since day one in each team member a sense of ownership and accountability, ultimately leading to project success.
