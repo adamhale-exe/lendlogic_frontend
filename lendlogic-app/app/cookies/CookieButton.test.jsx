@@ -14,13 +14,13 @@ describe("CookieButton", () => {
   it("renders the CookieButton component with the user prop", () => {
     const user = "John";
     render(<CookieButton user={user} />);
-    const button = screen.getByText("John's journey");
+    const button = screen.getByText("Login as John");
     expect(button).toBeInTheDocument();
   });
   it("renders the CookieButton component with the setCookie prop", () => {
     const mockSetCookie = jest.fn();
     render(<CookieButton setCookie={mockSetCookie} user={"John"} />);
-    const button = screen.getByText("John's journey");
+    const button = screen.getByText("Login as John");
     fireEvent.click(button);
     expect(mockSetCookie).toHaveBeenCalled();
   });
