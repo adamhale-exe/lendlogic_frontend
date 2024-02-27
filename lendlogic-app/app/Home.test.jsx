@@ -27,7 +27,7 @@ describe("Home", () => {
     const logSpy = jest.spyOn(global.console, "log");
     const HomeResolved = await resolvedComponent(Home);
     render(<HomeResolved />);
-    const button = screen.getByText("Jenny's journey");
+    const button = screen.getByText("Login as Jenny");
     fireEvent.click(button);
     expect(logSpy).toHaveBeenCalled();
     expect(logSpy).toHaveBeenCalledWith("Jenny logged in successfully!");
@@ -36,7 +36,7 @@ describe("Home", () => {
     const logSpy = jest.spyOn(global.console, "log");
     const HomeResolved = await resolvedComponent(Home);
     render(<HomeResolved />);
-    const button = screen.getByText("Kat's journey");
+    const button = screen.getByText("Login as Kat");
     fireEvent.click(button);
     expect(logSpy).toHaveBeenCalled();
     expect(logSpy).toHaveBeenCalledWith("Kat logged in successfully!");
